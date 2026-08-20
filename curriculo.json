@@ -1,0 +1,248 @@
+{
+  "dadosPessoais": {
+    "nome": "Osvandir Júnior",
+    "endereco": "Rua 28 de Julho, 448 – Bairro Fundação, CEP 09520-720 – São Caetano do Sul – SP",
+    "email": "osvandir.junior@gmail.com",
+    "whatsapp": "(11) 95452-6295",
+    "telefone": "(11) 97015-8915",
+    "nascimento": "23/12/1979 (46 anos)"
+  },
+  "objetivoProfissional": "Buscar uma posição que me permita aplicar minha experiência em análise e desenvolvimento de sistemas e meu conhecimento em arquitetura e engenharia de software no aperfeiçoamento dos processos corporativos, objetivando também o aprimoramento de meu conhecimento técnico e de minhas habilidades pessoais.",
+  "perfilPessoal": "Possuo grande facilidade de relacionamento interpessoal, ótima fluência comunicativa e boa eloquência, tendo participado e coordenado a execução de projetos de variados tamanhos com eficaz desempenho, tendo adquirido, também, sólido domínio em diversas áreas, técnicas e administrativas, obtidos no decurso de minha vivência profissional e através da participação em cursos técnicos e acadêmicos.",
+  "areasConhecimento": [
+    {
+      "categoria": "Programação",
+      "tecnologias": ["C/C++", "C#", "Python", "Java", "Kotlin", "Groovy", "Node JS", "Perl", "VB.NET", "VB6", "ADVPL", "Cobol", "Clipper", "n8n"]
+    },
+    {
+      "categoria": "Agentes de IA",
+      "tecnologias": ["OpenAI", "Claude", "n8n", "Copilot", "GitHub", "Gemini", "ChatGPT", "Anthropic", "IA Studio", "DeepSeek"]
+    },
+    {
+      "categoria": "Frontend",
+      "tecnologias": ["HTML5", "CSS3", "SCSS", "Angular", "React", "ASP.NET", "WinForms", "MAUI", "WPF", "UWP", "Silverlight", "Blazor", "Razor"]
+    },
+    {
+      "categoria": "Scripting",
+      "tecnologias": ["Javascript", "Typescript", "jQuery", "VBA (Office)", "VBScript", "PowerShell", "Bash"]
+    },
+    {
+      "categoria": "Ambientes",
+      "tecnologias": ["Visual Studio", "VS Code", "Android Studio", "Eclipse IDE", "iCode", "QT Creator", "Atmel Studio"]
+    },
+    {
+      "categoria": "Arquitetura",
+      "tecnologias": ["Client-Server", "P2P", "SOA", "MVC", "MVP", "MVVM", "TDD", "DDD", "IoC", "Injeção de Dependência", "Aspect", "3-Tier", "N-Tier"]
+    },
+    {
+      "categoria": "Tecnologias",
+      "tecnologias": ["Web Services", "WCF", "REST", "WebAPI", "LINQ", "Linq Expressions", "Entity Framework", "NHibernate", "Spring Framework", "Aspect", "JWT", "Boost", "FIX", "IPC", "DDE", "ActiveX", "GAC", "COM", "COM+", "Threading", "Sockets"]
+    },
+    {
+      "categoria": "Armazenamento",
+      "tecnologias": ["Microsoft SQL", "Oracle", "MySQL", "Sybase", "NoSQL", "MongoDB", "SQLite", "Access", "dBase"]
+    },
+    {
+      "categoria": "Metodologias",
+      "tecnologias": ["Agile", "Scrum"]
+    },
+    {
+      "categoria": "Nuvem",
+      "tecnologias": ["Microsoft Azure", "Amazon AWS", "Google GCP"]
+    },
+    {
+      "categoria": "Virtualização",
+      "tecnologias": ["VirtualBox", "HyperV", "VMWare", "QEmu", "OpenStack", "Docker", "Podman", "Kubernetes", "LXD"]
+    },
+    {
+      "categoria": "Ferramentas",
+      "tecnologias": ["Microsoft IIS", "Apache", "TIBCO", "WebSphere MQ", "Rabbit MQ", "MSMQ", "Dapper", "GIT", "TFS", "DevOps", "CI/CD", "Kanban", "Crystal Reports", "Report Services", "Integration Services", "Splunk", "UML", "Project", "Visio", "Enterprise Architect"]
+    },
+    {
+      "categoria": "Infraestrutura",
+      "tecnologias": ["Florestas de domínios", "endereçamento IP", "subnets", "DHCP", "Active Directory", "Novell Netware", "LDAP", "DNS", "RRsets", "MQ", "SMTP", "IMAP", "POP3", "MX"]
+    },
+    {
+      "categoria": "Segurança",
+      "tecnologias": ["GPO", "ACL", "IAM", "SAML", "WS-Fed", "SSO", "2FA", "MFA", "bearer tokens", "JOSE", "JWT", "JWE", "JWS", "JWA/JWK", "PKI", "RSA", "ECC", "DSA", "Diffie-Hellman", "AES", "DES", "3DES", "SSL/TLS", "TKIP", "WPA/WPA2/WPA3", "DNSSEC", "ZSK", "KSK", "DNSKEY", "DS"]
+    },
+    {
+      "categoria": "Sistemas Operacionais",
+      "tecnologias": ["Windows", "Linux", "Android", "Tizen", "MacOS", "iOS", "Catalyst", "bootloaders", "EFI/UEFI", "secure boot", "TPM", "RTOS", "kernel drivers", "user drivers", "firmwares para microcontrolador"]
+    }
+  ],
+  "resumoQualificacoes": [
+    "No decorrer de mais de 26 anos de experiência em análise de sistemas e desenvolvimento de software, participei do projeto, codificação e implementação de sistemas nas mais diversas áreas, tendo composto times para o desenvolvimento de aplicativos para o setor administrativo, como escrita fiscal, contabilidade, faturamento, contas a pagar e receber, folha de pagamento, registro de ponto e controle patrimonial, e também voltados a obrigações legais como SPED contábil/fiscal, Nota Fiscal Paulista e Nota Fiscal Eletrônica; para o setor comercial, como vendas, compras, importação e exportação (COMEX) e relacionamento com o cliente (CRM); e para setores operacionais, como recebimento, armazenamento, endereçamento de estoque, expedição e controle de produção (PCP), assim como o decorrer de minha carreira profissional me levou à especialização no desenvolvimento de sistemas para o setor bancário e o mercado financeiro.",
+    "Participei também do desenvolvimento de sistemas de ponto de vendas (PDV e PDA), para monitoramento e gravação de câmeras, de tarifação e gravação de chamadas telefônicas em equipamentos de PABX, de comunicação serial cabeada e de rede entre equipamentos eletrônicos e sistemas computacionais, assim como de sistemas para automação com o uso de código de barras (EAN/QR-Code), impressoras térmicas e de crachá, catracas eletrônicas, e de inventário de equipamentos e gerenciamento de rede em ambiente Windows utilizando instrumentação WMI, interfaceamento com serviços de diretório (ADSI) e diversos protocolos da pilha TCP/IP (SNMP, ARP, IP, TCP, UDP, DNS, ICMP, IGMP e LDAP).",
+    "Conto com sólidos conhecimentos de arquitetura de software, design-patterns, desenvolvimento em camadas (3-Tier/N-Tier), cliente-servidor, ponto a ponto (P2P), orientado a testes (TDD), a domínios (DDD), micro-services e micro-frontend, computação em nuvem, padrões SOA, MVC, MVP, multiprocessamento, paralelismo e synchronização de threads, comunicação de redes, WebAPI (REST), IPC, remoting e COM (OLE server e client, ActiveX, COM+ e DCOM), tendo também aprofundado conhecimento de WIN32API e desenvolvimento de drivers kernel e user-mode para Windows.",
+    "Possuo grande experiência com programação e gerenciamento de banco de dados (SQL Server, MySQL, Oracle e outros), no uso de instruções DML e DDL, desenvolvimento de procedures e triggers, uso de transações, tabelas em memória e versionadas, segurança e permissionamento (schemas, usuários, logins), manipulação de massa de dados (bulk operations), processos de DTS e armazenamento de dados binários.",
+    "Tendo amplo conhecimento em eletrônica, estive envolvido com o projeto de circuitos impressos e com a análise e a codificação de firmwares e drivers para processadores X64 e AARCH/ARM e microcontroladores AVR e LX6, tendo utilizado C/C++ no desenvolvimento de aplicativos kernel-mode para RTOS, Windows e sistemas operacionais UNIX-based (Linux/Android/Tizen), C/C++ e Python para codificar aplicativos QT6 e Java/Kotlin em aplicativos gerenciados executados em ambiente Windows, Linux, Android, MacOS, iOS e em dispositivos Raspberry (desktop, web ou dock com Ubuntu Frame), e C#/MAUI e Java/Kotlin no desenvolvimento de sistemas para execução em ambiente Windows, Android e Tizen.",
+    "Além disso, participei de diversos projetos de implantação e migração de redes NT4 e AD, incluindo o planejamento de subredes e de florestas e árvores de domínios, instalação de servidores, implementação de diretório de serviços e controladores de domínio, configuração de DNS, WINS, DHCP, replicação, GPOs e a criação de scripts de logon, tendo executado administração de redes, manutenção, definição de infraestrutura, controle de aquisição de equipamentos e diagnóstico/correção de problemas."
+  ],
+  "formacaoAcademica": [
+    "Bacharelado em Ciências da Computação - IMES",
+    "Ensino Técnico em Mecânica Industrial - ETE Jorge Street"
+  ],
+  "idiomas": [
+    { "idioma": "Inglês", "nivel": "Leitura e escrita avançadas, conversação intermediária." },
+    { "idioma": "Espanhol", "nivel": "Leitura, escrita e conversação básicas." }
+  ],
+  "experienciaProfissional": [
+    {
+      "empresa": "C&V Consultoria Ltda.",
+      "cargo": "Consultor de TI",
+      "periodo": "12/2024 a 06/2025",
+      "contrato": "CLT",
+      "atividades": [
+        "Manutenção de sistemas diversos de gestão de estoque da empresa Scania, englobando processos de recebimento, armazenamento e expedição de peças automotivas utilizando diversas tecnologias (C#, C++, VB.Net, PowerShell, Angular) e armazenamento em banco de dados SQL Server."
+      ]
+    },
+    {
+      "empresa": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)",
+      "cargo": "Engenheiro de Software",
+      "periodo": "02/2024 a 10/2024",
+      "contrato": "PJ",
+      "atividades": [
+        "Pesquisa de tecnologia assistiva para tradução automática de linguagem oral para Língua Brasileira de Sinais (LIBRAS), utilizando linguagem de programação Python e tecnologias de captura e reconhecimento de voz e modelos de aprendizado de máquina em TensorFlow para processamento de sinais digitais em FPGAs e NPUs."
+      ]
+    },
+    {
+      "empresa": "Banco Itaú S/A",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "05/2018 a 01/2024",
+      "contrato": "Misto",
+      "atividades": [
+        "Desenvolvimento de subsistema de sincronização de senhas entre baixa (IBM AS400) e alta plataforma através de enfileiramento de mensagens (IBM MQ Series) em C#.Net Core e armazenamento de dados em banco SQL Server 2014, provendo coleta e tratamento de logs para o Splunk.",
+        "Desenvolvimento de webapi para sistema de gestão de remessa de numerários para caixa eletrônico e gestão de carro forte, em C#.Net Core utilizando armazenamento de dados em AWS (RDS).",
+        "Desenvolvimento de micro-frontend para gestão de ativos de RH em Angular.",
+        "Manutenção de sistema de investimentos (CDB/RDB/Tesouro) do Itaú em VB.Net, VB6 e ASP3 utilizando armazenamento de dados.",
+        "Desenvolvimento de webapi para sistema de gerenciamento de riscos em plataforma de petróleo da Petrobrás, em C#.Net Core e armazenamento de dados em Oracle 19c."
+      ]
+    },
+    {
+      "empresa": "Easyinvest Banco de Investimentos S/A",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "01/2018 a 05/2018",
+      "contrato": "CLT",
+      "atividades": [
+        "Implementação de módulo de autorização de acesso de serviços e webapis consistindo em integração com autenticador proprietário da empresa, gerenciamento de permissões (claims) desenvolvido como micro-frontend em React e emissão de tokens JWT através de micro-serviço em .Net Core com linguagem C# e infraestrutura AWS (RDS MySQL, S3 e EC2)."
+      ]
+    },
+    {
+      "empresa": "Secretaria de Segurança Pública do Estado de São Paulo",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "07/2017 a 01/2018",
+      "contrato": "CLT",
+      "atividades": [
+        "Desenvolvimento de módulo em sistema de vistoria de incêndios do Corpo de Bombeiros, programado em C#, utilizando padrão MVP, serialização através de Entity Framework (code first), com armazenamento de dados em servidor SQL Server 2016."
+      ]
+    },
+    {
+      "empresa": "RADI Desenvolvimento de Software Ltda.",
+      "cargo": "Analista de Suporte",
+      "periodo": "02/2017 a 06/2017",
+      "contrato": "CLT",
+      "atividades": [
+        "Análise e resolução de incidentes e problemas em sistema de ponto de venda (PDV) em produção do mercado americano (market adoption), em C++, com comunicação cliente-servidor através de protocolo proprietário, incluindo análise de dumps de memória, emissão de propostas de correções e aplicação das correções nos códigos fontes."
+      ]
+    },
+    {
+      "empresa": "SND Comércio e Distribuição de Informática Ltda.",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "01/2016 a 01/2017",
+      "contrato": "CLT",
+      "atividades": [
+        "Manutenção de sistemas internos (gestão de materiais e pedidos, comissionamento, gerenciamento de rebates, sistema de custos), programados em C#, VB.Net e VB6, com armazenamento de dados em servidor SQL Server 2015.",
+        "Desenvolvimento de aplicativo de gerenciamento e billing de serviços em nuvem (Office 365, Azure e SharePoint) provendo integração ao sistema Microsoft Partner, programado em C# ASP.Net, utilizando padrão MVC, com armazenamento de dados em servidor Azure SQL Server."
+      ]
+    },
+    {
+      "empresa": "BM&F/B3",
+      "cargo": "Analista de Sistemas Sênior",
+      "periodo": "04/2014 a 12/2015",
+      "contrato": "PJ",
+      "atividades": [
+        "Análise e resolução de incidentes e problemas (PSG) em sistemas de negociação em produção, programados em diversas linguagens (C++, C, Java, VB6, C#, Delphi e Cobol), incluindo análise de dumps de memória, atendimento a analistas externos (Microsoft, Oracle, Tibco), emissão de pareceres e proposta de correções, aplicação das correções nos códigos fontes, criação e acompanhamento de GMUDs e desenvolvimento de aplicativos de suporte à produção (monitoramento e utilitários)."
+      ]
+    },
+    {
+      "empresa": "Secretaria da Educação do Estado de São Paulo",
+      "cargo": "Programador Sênior",
+      "periodo": "08/2013 a 04/2014",
+      "contrato": "CLT",
+      "atividades": [
+        "Desenvolvimento de camada de comunicação do sistema de gerenciamento de secretaria escolar para acesso através de dispositivos móveis (Android e iPhone) e interface web (MVC), programado em C#, utilizando WebAPI e WCF (com serialização JSON e XML/SOAP), serialização através de Entity Framework (code first), com armazenamento de dados em servidor Oracle 11g."
+      ]
+    },
+    {
+      "empresa": "FIESP - Federação das Indústrias do Estado de São Paulo",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "04/2011 a 07/2013",
+      "contrato": "PJ",
+      "atividades": [
+        "Desenvolvimento de sistema web de emissão de Certificado de Origem, na área de importação e exportação, para a classificação de produtos da indústria nacional conforme os acordos comerciais do Brasil com outros países, programado em C# ASP.NET, utilizando Entity Framework, com armazenamento de dados em servidor SQL Server 2008.",
+        "Desenvolvimento de componente COM em C# para assinatura digital de XML via web."
+      ]
+    },
+    {
+      "empresa": "Web Premios Serviços Promocionais Ltda.",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "08/2010 a 03/2011",
+      "contrato": "CLT",
+      "atividades": [
+        "Desenvolvimento de sistema de integração (estoque, financeiro e contábil) com logística e ERP (Protheus) do projeto Galera Animal da Nestlé, programado em C# e SQL Server Integration Services (SSIS), executando a integração através de servidores FTP e arquivos CSV.",
+        "Desenvolvimento de sistema de gerenciamento e bonificação de transações de campanhas de cartão de crédito da bandeira Aura, programado em C# utilizando serviços Windows e com interface visual em ASP.NET, com armazenamento de dados em servidor SQL Server 2008 (fazendo uso de bulk operations), contando também com automação de shell SSH (para transferência de arquivos para servidores UNIX através de SFTP).",
+        "Desenvolvimento de web-services para integração de e-commerce com o sistema logístico e o ERP (Protheus) programado em C#, utilizando WCF."
+      ]
+    },
+    {
+      "empresa": "Hiperdata Consultoria em Informática Ltda.",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "12/2008 a 07/2010",
+      "contrato": "PJ",
+      "atividades": [
+        "Desenvolvimento de sistema modular de Nota Fiscal Eletrônica, programado em C#, com interfaces visuais em WinForms e WebForms, utilizando padrão MVP, com armazenamento de dados em servidor Oracle 10i.",
+        "Desenvolvimento de sistema de atendimento de helpdesk, programado em C#, com interface visual em WPF utilizando padrão MVVM, com armazenamento de dados em servidor Oracle 10i.",
+        "Desenvolvimento de componente COM para comunicação com web-services da Secretaria da Fazenda, contemplando validação de XML contra esquemas XSD, assinatura de XML e transformação de XML através de XSLT, programado em C#, utilizando .Net Interop Services para expor objetos gerenciados ao ambiente nativo COM.",
+        "Desenvolvimento de sistema de rastreamento de automóveis da CAOA para plataforma móvel (Windows Mobile/CE), com arquitetura SOA, programado em C# e C++, utilizando web-services como entrypoint do aplicativo e armazenamento de dados em servidor Oracle 10i.",
+        "Criação de framework de desenvolvimento em C# contemplando a geração automática de código (extensibilidade do Visual Studio), camada de acesso a dados (baseada em data factory), parametrização de aplicativos, permissionamento de acesso com integração com o Active Directory e a gravação de logs."
+      ]
+    },
+    {
+      "empresa": "Compugraf Telecomunicações Ltda.",
+      "cargo": "Analista-Programador Sênior",
+      "periodo": "03/2006 a 12/2008",
+      "contrato": "PJ",
+      "atividades": [
+        "Desenvolvimento de sistema de Nota Fiscal Paulista em três camadas, com interface visual WinForms, geração de arquivos de layout para comunicação com sistema de gestão e integração com o órgão fazendário estadual via webservice, utilizando .NET (C#) e armazenamento de dados em Microsoft SQL Server.",
+        "Desenvolvimento de aplicativo de gestão fiscal em Visual Basic 6.0 com armazenamento de dados em Microsoft SQL Server e impressão de livros fiscais (entrada e saída de notas, ICMS, IPI e inventário) utilizando automação OLE com o Excel.",
+        "Desenvolvimento e manutenção do sistema contábil em VBA com armazenamento de dados em Microsoft SQL Server e impressão de documentos contábeis (diário, razão, balancete e balanço) utilizando Report Services.",
+        "Desenvolvimento de aplicativo de frente de loja (PDV) para o grupo Armani/Dolce & Gabbana/Ermenegildo Zegna, utilizando componentes COM escritos em VB, acessados através de ASP 3.0 com tecnologias de autenticação por biometria.",
+        "Desenvolvimento e manutenção de sistema modular de monitoramento, gravação e tarifação de chamadas para PABX (Tadiran) desenvolvido em C e C++ e utilizando armazenamento de dados em Sybase SQL Server.",
+        "Criação de relatórios gerenciais diversos em Report Services."
+      ]
+    },
+    {
+      "empresa": "JS Consultoria de Software Ltda.",
+      "cargo": "Analista-Programador",
+      "periodo": "12/2004 a 02/2006",
+      "contrato": "CLT",
+      "atividades": [
+        "Desenvolvimento de sistema de salvados (controle de sinistro de veículos automotores) para o Banco Alfa, utilizando Visual Basic 6.0 e armazenamento de dados em Microsoft SQL Server.",
+        "Desenvolvimento de sistema de controle cardiológico de stents para o Instituto Dante Pazzanese, utilizando .NET (C#) e armazenamento de dados em Microsoft SQL Server.",
+        "Desenvolvimento de sistema integrado de gestão de processo metalúrgico englobando o recebimento, expedição, ordens de compra, orçamentos, pedidos, ordem de serviço, faturamento e financeiro (contas a pagar e receber), utilizando Visual Basic 6.0, armazenamento de dados em Oracle Server e integração com rede Novell Netware."
+      ]
+    },
+    {
+      "empresa": "Sotratel - Sociedade de Tratamento Térmico Ltda.",
+      "cargo": "Analista-Programador",
+      "periodo": "03/2000 a 11/2004",
+      "contrato": "Cooperativa",
+      "atividades": [
+        "Desenvolvimento de sistema de identificação de peças, automação e controle de qualidade do processo de tratamento térmico de materiais (recozimento, cementação, têmpera, revenimento, etc.) utilizando Visual Basic 6.0 como linguagem de programação, componentização C++, e armazenamento de dados em MySQL Server.",
+        "Desenvolvimento de sistema integrado de gestão industrial englobando o recebimento e expedição de materiais, ordens de compra, o processo comercial (orçamentos, cotação e pedidos), ordens de serviço, faturamento, financeiro (contas a pagar e receber), fiscal e contabilidade, utilizando Visual Basic 6.0 e armazenamento de dados em MySQL Server.",
+        "Desenvolvimento de sistema de gerenciamento de redes e inventário de hardware em Visual Basic 6.0 utilizando WMI, ADSI e SNMP."
+      ]
+    }
+  ]
+}
